@@ -8,6 +8,11 @@ export default {
         "primary-dark-cyan": "#3c8067",
         "neutral-very-dark-blue": "#1c232b",
         "neutral-dark-grayish-blue": "#6c7289",
+        "custom-green": "#3c8067",
+      },
+      fontFamily: {
+        Fraunces: "Fraunces, serif",
+        Montserrat: "Montserrat, sans-serif",
       },
     },
   },
